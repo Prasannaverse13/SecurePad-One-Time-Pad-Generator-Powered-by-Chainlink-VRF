@@ -1,10 +1,8 @@
 # Chainlink VRF One-Time Pad (OTP)
 
-<h3 align="center">Try it out <a href="https://chainlinkotp.privkey.io">here</a>! (Kovan Testnet)</h3>
+<h3 align="center">Try it out <a href="https://chainlinkotp.privkey.io">here</a>!</h3>
 
-<p align="center">
-  <img src="./images/OTP_center.png" />
-</p>
+
 
 ## Project Objectives
 
@@ -19,8 +17,6 @@ One-Time Pads (OTP) are an encryption technique in which each character of a mes
 **3.** Encrypt the original message using the pads generated
 
 **4.** Transfer encrypted message to the other party
-
-Video demonstration: https://youtu.be/DToyi2CBTJk
 
 <p align="center">
   <img src="./images/Chainlink_OTP_Overview.png" />
